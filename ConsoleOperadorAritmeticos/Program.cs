@@ -1,4 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
+
  Console.WriteLine("Hello, World!");
 
 int x = 3 + 4 * 2; // 11
@@ -24,3 +25,4 @@ double delta = b * b - 4.0 * a * c; // or double delta = Math.Pow(b,2) - 4.0 * a
 double x1 = (-b + Math.Sqrt(delta)) / (2.0 * a);
 Console.WriteLine(delta);
 Console.WriteLine(x1);
+
